@@ -1,6 +1,14 @@
 Desarrollo de funcionalidades de un simulador de envio de emails con JS.
 
-
+- Un filtrado a una bd ficticia donde poder consultar vehiculos según:
+    - Marca
+    - Año
+    - Precio min
+    - Precio max
+    - Puertas
+    - Transmisión
+    - Color
+- En caso de no haber resultados, mostrar un mensaje de error
 
 Enlace a la app: 
 
