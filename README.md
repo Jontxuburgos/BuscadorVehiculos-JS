@@ -1,4 +1,4 @@
-Desarrollo de funcionalidades de un simulador de envio de emails con JS.
+Desarrollo de una app que filtra vehiculos utilizando diferentes criterios
 
 - Un filtrado a una bd ficticia donde poder consultar vehiculos según:
     - Marca
