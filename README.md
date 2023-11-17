@@ -10,7 +10,7 @@ Desarrollo de funcionalidades de un simulador de envio de emails con JS.
     - Color
 - En caso de no haber resultados, mostrar un mensaje de error
 
-Enlace a la app: 
+Enlace a la app: https://enchanting-monstera-bab267.netlify.app
 
 ----------------------------------------------------------------------------------------
 
